@@ -37,4 +37,5 @@ a9e11aa4-194b-4043-a582-07eab063e01d
 {4,"_$Data$_.Delete",15},
 {4,"_$InfoBase$_.ExclusiveModeChange",16},
 {4,"_$Access$_.Access",17},
-{5,987c672d-c5c4-4a80-8638-f2b0796afaab,"Документ.ОказаниеУслуги",8}
+{5,987c672d-c5c4-4a80-8638-f2b0796afaab,"Документ.ОказаниеУслуги",8},
+{3,"WebSocket",4}
